@@ -1,0 +1,1 @@
+void changepassword_check();

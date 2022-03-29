@@ -1,0 +1,1 @@
+void display_all_records();
